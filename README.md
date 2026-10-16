@@ -1,9 +1,5 @@
 # MemoryOS
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/eb3b167b-1ace-476e-89dc-1a7891356e0b" alt="MemoryOS logo" width="400"/>
-</div>
-
 ## What is MemoryOS?
 
 MemoryOS is a memory operating system for personalized AI agents. It helps an AI maintain coherent, personalized, and context-aware conversations by organizing information in a hierarchical memory system.
